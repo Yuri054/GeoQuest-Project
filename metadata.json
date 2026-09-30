@@ -1,0 +1,6 @@
+{
+  "name": "Seterra England: Vector Map Quiz",
+  "description": "Seterra-style vector map quiz game for England counties, regions, and major cities with interactive touch maps, scoring, and Android APK export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

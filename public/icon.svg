@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0f172a"/>
+  <!-- Map Pin & English Cross Accent -->
+  <circle cx="256" cy="256" r="210" fill="#1e293b" stroke="#38bdf8" stroke-width="8"/>
+  <path d="M256 100 C180 100 120 160 120 236 C120 330 256 420 256 420 C256 420 392 330 392 236 C392 160 332 100 256 100 Z" fill="#0284c7" stroke="#38bdf8" stroke-width="8"/>
+  <circle cx="256" cy="230" r="54" fill="#f8fafc"/>
+  <!-- Compass star -->
+  <polygon points="256,190 268,220 296,230 268,240 256,270 244,240 216,230 244,220" fill="#dc2626"/>
+</svg>
